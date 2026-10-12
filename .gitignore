@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.part
+*.ytdl
+*.log
+ffmpeg.exe
+ffprobe.exe
+qjs.exe
+.DS_Store
+Thumbs.db
